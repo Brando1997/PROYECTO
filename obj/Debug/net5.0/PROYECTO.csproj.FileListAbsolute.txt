@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\bin\Debug\net5.0\PROYECTO.exe
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\bin\Debug\net5.0\PROYECTO.deps.json
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\bin\Debug\net5.0\PROYECTO.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\bin\Debug\net5.0\PROYECTO.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\bin\Debug\net5.0\PROYECTO.dll
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\bin\Debug\net5.0\PROYECTO.pdb
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.dll
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\refint\PROYECTO.dll
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.pdb
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\PROYECTO.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\PROYECTO\obj\Debug\net5.0\ref\PROYECTO.dll
